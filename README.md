@@ -5,7 +5,7 @@ Credit card fraud detection using Machine Learning Algorithm in Python for my As
 
 - The credit card fraud detection problem includes modelling past credit card transactions with the knowledge of the ones that turned out to be fraud.
 - This model is then used to identify whether a new transaction is fraudulent or not. 
-- Our aim here is to detect maximum of the fraudulent transactions while minimizing the incorrect fraud classifications.
+- The aim here is to detect maximum of the fraudulent transactions while minimizing the incorrect fraud classifications.
 
 ## Description of Dataset
 
@@ -30,8 +30,8 @@ Credit card fraud detection using Machine Learning Algorithm in Python for my As
 ## Insights
 
 - Easier to predict as the data is well balanced, clean and clear cut.
-- Model could also be biased. So, we will need more data to better train the model,  
-- Having a split of more training data does not always result in better accuracies due to overfitting. Similarly, too little of training data may result in underfitting. 
+- Model could also be biased. So, we will need more data to better train the model.  
+- Having a split of more training data does not always result in better accuracy due to overfitting. Similarly, too little of training data may result in underfitting. 
 - Number of iterations also play apart in the accuracy of model.
 
 
