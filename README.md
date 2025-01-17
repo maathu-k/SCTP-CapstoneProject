@@ -23,15 +23,14 @@ Credit card fraud detection using Machine Learning Algorithm in Python
 - Building classification models
 
 ## Confusion Matrix
+https://gyazo.com/cbed73fb810d18c74a86c6a9a1721e3c
 
-[![Image from Gyazo]([https://i.gyazo.com/cbed73fb810d18c74a86c6a9a1721e3c.png](https://gyazo.com/cbed73fb810d18c74a86c6a9a1721e3c))]
+## Insights
 
-#### Insights
-
-Easier to predict as the data is well balanced, clean and clear cut  
-Model could also be biased so will need more data as input to better train the model  
-Having a split of more training data does not always result in better accuracies due to overfitting. Similarly, too little of training data may result in underfitting. 
-Number of iterations also play apart in the accuracy of model.
+- Easier to predict as the data is well balanced, clean and clear cut  
+- Model could also be biased so will need more data as input to better train the model  
+- Having a split of more training data does not always result in better accuracies due to overfitting. Similarly, too little of training data may result in underfitting. 
+- Number of iterations also play apart in the accuracy of model.
 
 #### Connect with Me!
 Like my work? Send me a DM on [Linkedin!]([https://www.linkedin.com/in/mathanky-kaneshalingam-9a813356/])
